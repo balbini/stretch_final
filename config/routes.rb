@@ -5,4 +5,6 @@ root to: 'pages#index'
 
 resources :pages
 
+resources :workouts
+
 end
